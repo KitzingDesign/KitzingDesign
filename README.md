@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KitzingDesign
 - 👀 I’m interested in UX-design and Front-end development
-- 🌱 I’m currently developming my knowledge within front-end development.
+- 🌱 I’m currently playing around with a esp-32 and a led matrix.
 
 - 📫 How to reach me jakob.kitzing@gmail.com
 - Have a look at my porfolio if you want to 🦖 www.jakobkitzing.com 🦖
